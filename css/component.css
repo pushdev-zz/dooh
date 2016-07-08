@@ -10,6 +10,14 @@ body {
 	background: #333;
 }
 
+a {
+    color: #000;
+}
+a:hover {
+    color: #90c8e9;
+    text-decoration: none;
+}
+
 .splitlayout {
 	position: relative;
 	overflow-x: hidden;
